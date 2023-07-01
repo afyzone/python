@@ -1,1 +1,1 @@
-# My projects made while learning Python
+# My projects made while self-learning Python
