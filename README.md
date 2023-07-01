@@ -1,1 +1,1 @@
-# python
+# My projects made while learning Python
